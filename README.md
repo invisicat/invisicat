@@ -25,7 +25,7 @@ For programming, I have the most experience using these languages:
 - C++
 
 ### Social Media
-- *Site*: https://longshotdev.tk/
+- *Site*: https://doujinfucks.tk/
 - *Discord*: AndyIsCool5463#5230 or my [server](https://discord.gg/nkdQMvk).
 - *Steam*: [Rice Field Worker](https://steamcommunity.com/id/andyiscool5463)
 - *Twitter*: [AndyIsCool5463](https://twitter.com/andyiscool5463)
