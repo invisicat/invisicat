@@ -31,5 +31,6 @@ For programming, I have the most experience using these languages:
 - *Twitter*: [AndyIsCool5463](https://twitter.com/andyiscool5463)
 - *Ko-Fi*: https://ko-fi.com/doujinf/
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RiceCX)](https://github.com/RiceCX)
 Feel free to hit me up whenever for any project related things or just to talk.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true)](https://github.com/RiceCX)
