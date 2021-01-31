@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a programming enthusiast lookin around the internet making horrible shit.
+I'm a programming enthusiast coding on my free time ☕. 
 
-For programming, I have the most experience using these languages:
-
-- Node.JS
-- TypeScript
+I have the most experience using these languages:
+- Javascript (React, Node.js, Vue.js)
+- Typescript
 - Java
 - C#
 - C++
 
 ### Social Media
-- *Site*: https://doujinfucks.tk/
 - *Discord*: AndyIsCool5463#5230 or my [server](https://discord.gg/nkdQMvk)
 - *Steam*: [Rice Field Worker](https://steamcommunity.com/id/andyiscool5463)
 - *Twitter*: [AndyIsCool5463](https://twitter.com/andyiscool5463)
