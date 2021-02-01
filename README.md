@@ -16,12 +16,28 @@ Here are some ideas to get you started:
 -->
 I'm a programming enthusiast coding on my free time ☕. 
 
+<h1 align=left>Specs</h1>
+<p align=center>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact" />
+<p align=left>
 I have the most experience using these languages:
+<br />
 - Javascript (React, Node.js, Vue.js)
+<br />
 - Typescript
+<br />
 - Java
+<br />
 - C#
+<br />
 - C++
+<br />
+</p>
+</p>
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
+-->
+<hr />
 
 ### Social Media
 - *Discord*: AndyIsCool5463#5230 or my [server](https://discord.gg/nkdQMvk)
@@ -31,4 +47,4 @@ I have the most experience using these languages:
 
 Feel free to hit me up whenever for any project related things or just to talk.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true)](https://github.com/RiceCX)
+<img align=center src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true" />
