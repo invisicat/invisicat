@@ -33,6 +33,7 @@ I have the most experience using these languages:
 - C++
 <br />
 </p>
+<br />
 </p>
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
@@ -41,6 +42,8 @@ I have the most experience using these languages:
 <img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true" />
 
 ### Social Media
+
+<hr />
 <p align=center>
 <a href="https://discord.bio/p/ricecx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
