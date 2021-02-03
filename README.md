@@ -39,6 +39,9 @@ I have the most experience using these languages:
 -->
 <hr />
 
+<div>
+<div align=left>
+  
 ### Social Media
 - *Discord*: AndyIsCool5463#5230 or my [server](https://discord.gg/nkdQMvk)
 - *Steam*: [Rice Field Worker](https://steamcommunity.com/id/andyiscool5463)
@@ -46,5 +49,8 @@ I have the most experience using these languages:
 - *Ko-Fi*: https://ko-fi.com/doujinf/
 
 Feel free to hit me up whenever for any project related things or just to talk.
-
-<img align=center src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true" />
+<div />
+<div align=right>
+<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true" />
+  </div>
+</div>
