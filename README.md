@@ -45,19 +45,19 @@ I have the most experience using these languages:
 
 <hr />
 <p align=center>
-<a href="https://discord.bio/p/ricecx">
+<a target="_blank" href="https://discord.bio/p/ricecx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
 </a>
-<a href="https://discord.gg/nkdQMvk">
+<a target="_blank" href="https://discord.gg/nkdQMvk">
   <img alt="Discord" src="https://img.shields.io/discord/285078632794161153?color=7289DA&label=My%20Server&style=for-the-badge">
 </a>
-<a href="https://steamcommunity.com/id/andyiscool5463">
+<a target="_blank" href="https://steamcommunity.com/id/andyiscool5463">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-<a  href="https://ko-fi.com/doujinf/">
+<a target="_blank" href="https://ko-fi.com/doujinf/">
   <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
 </a>
-<a href="https://twitter.com/andyiscool5463">
+<a target="_blank" href="https://twitter.com/andyiscool5463">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </p>
