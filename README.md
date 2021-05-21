@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a programming enthusiast coding on my free time ☕. 
+I'm a programming enthusiast coding on my free time ☕.
+🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
+
 
 <h1 align=left>Specs</h1>
 <p align=center>
