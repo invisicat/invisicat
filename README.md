@@ -27,6 +27,7 @@ I'm a programming enthusiast coding on my free time ☕.
 <br />
 <br />
 <br />
+<br />
 
 <h1 align=left>Specs</h1>
 <p align=center>
