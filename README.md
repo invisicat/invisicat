@@ -14,16 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a programming enthusiast coding on my free time ☕.
-🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 
+
+
+<p align=center>
+<img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792" />
+<p align=left>
+I'm a programming enthusiast coding on my free time ☕.
+🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust</a>. 
+</p>
+<br />
+<br />
+<br />
+<br />
 
 <h1 align=left>Specs</h1>
 <p align=center>
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact" />
 <p align=left>
 I have the most experience using these languages:
-<br />
+<ul>
 - Javascript (React, Node.js, Vue.js)
 <br />
 - Typescript
@@ -34,8 +44,8 @@ I have the most experience using these languages:
 <br />
 - C++
 <br />
+</ul>
 </p>
-<br />
 </p>
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
