@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792" />
+<img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792?bg=00000000" />
 <p align=left>
 I'm a programming enthusiast coding on my free time ☕.
 🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust</a>. 
@@ -31,7 +31,7 @@ I'm a programming enthusiast coding on my free time ☕.
 
 <h1 align=left>Specs</h1>
 <p align=center>
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
 <p align=left>
 I have the most experience using these languages:
 <ul>
@@ -53,7 +53,7 @@ I have the most experience using these languages:
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
 <hr />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true" />
+<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
 
 ### Social Media
 
