@@ -76,7 +76,7 @@ I have the most experience using these languages:
 <a target="_blank" href="https://steamcommunity.com/id/andyiscool5463">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-<a target="_blank" href="https://ko-fi.com/doujinf/">
+<a target="_blank" href="https://ko-fi.com/ricecx/">
   <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
 </a>
 <a target="_blank" href="https://twitter.com/andyiscool5463">
