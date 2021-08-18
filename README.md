@@ -25,6 +25,11 @@ I'm a programming enthusiast coding on my free time ☕.
 <br />
 <br />
 I'm a software developer from the US and I've been coding since 2016. I specialize in Typescript, Java, and hopefully Rust in the near future.
+<details>
+<summary>Misc.</summary>
+<br>
+<img src="https://komarev.com/ghpvc/?username=RiceCX&color=blueviolet" />
+</details>
 </p>
 <br />
 <br />
