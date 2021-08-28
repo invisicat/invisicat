@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792?bg=00000000" />
 <p align=left>
 I'm a programming enthusiast coding on my free time ☕.
-🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust</a>. 
+🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀. 
 <br />
 <br />
 I'm a software developer from the US and I've been coding since 2016. I specialize in Typescript, Java, and hopefully Rust in the near future.
