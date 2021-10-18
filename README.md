@@ -28,6 +28,7 @@ I'm a software developer from the US and I've been coding since 2016. I speciali
 <details>
 <summary>Misc.</summary>
 <br>
+<img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FRiceCX" />
 <img src="https://komarev.com/ghpvc/?username=RiceCX&color=blueviolet" />
 </details>
 </p>
