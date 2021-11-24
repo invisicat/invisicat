@@ -25,6 +25,9 @@ I'm a programming enthusiast coding on my free time ☕.
 <br />
 <br />
 I'm a software developer from the US and I've been coding since 2016. I specialize in Typescript, Java, and Rust.
+<br />
+<br />
+<a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <details>
 <summary>Misc.</summary>
 <br>
