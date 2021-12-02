@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792?bg=00000000" />
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/40027631494430721)](https://discord.com/users/400276314944307210)
 <p align=left>
 I'm a programming enthusiast coding on my free time ☕.
 🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀. 
