@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 <p align=center>
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792?bg=00000000" />
 <p align=left>
-I'm a programming enthusiast coding on my free time ☕. I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and WebAssembly. At the moment, I'm really interested in distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that. I would love to learn and contribute to it.
+Devoted to coding on my free time and writing good software since 2016 ☕. 
+   
+I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and WebAssembly. At the moment, I'm really interested in distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that. I would love to learn and contribute to it.
+
 <br />
 <br />
-I'm a software developer from the US and I've been coding since 2016. I specialize in Typescript, Java, and Rust.
 <br />
 <br />
 <a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
