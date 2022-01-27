@@ -25,11 +25,8 @@ Here are some ideas to get you started:
 <p align=left>
 Devoted to coding on my free time and writing good software since 2016 ☕. 
    
-I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and WebAssembly. At the moment, I'm really interested in distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that. I would love to learn and contribute to it.
+I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and WebAssembly. At the moment, I'm interested in learning distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that as I would love to learn and contribute to it :)
 
-<br />
-<br />
-<br />
 <br />
 <a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <details>
@@ -42,8 +39,6 @@ I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and 
 
 </details>
 </p>
-<br />
-<br />
 <br />
 <br />
 <br />
