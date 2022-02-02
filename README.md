@@ -79,8 +79,8 @@ I have the most experience using these languages:
 <a target="_blank" href="https://discord.bio/p/ricecx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
 </a>
-<a target="_blank" href="https://discord.gg/nkdQMvk">
-  <img alt="Discord" src="https://img.shields.io/discord/285078632794161153?color=7289DA&label=My%20Server&style=for-the-badge">
+<a target="_blank" href="https://discord.gg/qvKEPrgTEt">
+  <img alt="Discord" src="https://img.shields.io/discord/876733036471914536?color=7289DA&label=My%20Server&style=for-the-badge">
 </a>
 <a target="_blank" href="https://steamcommunity.com/id/andyiscool5463">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
