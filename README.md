@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align=left>
 Devoted to coding on my free time and writing good software since 2016 ☕. 
    
-I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and WebAssembly. At the moment, I'm interested in learning distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that as I would love to learn and contribute to it :)
+I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and <a href="https://webassembly.org/">WebAssembly</a>. At the moment, I'm interested in learning distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that as I would love to learn and contribute to it :)
 
 Current Projects:
    - [Meditate](https://github.com/RiceCX/Meditate) - A website that provides ways of winding down and meditation.
