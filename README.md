@@ -48,7 +48,7 @@ Current Projects:
 
 <h1 align=left>Tech Stack 📚🌠</h1>
 <p align=center>
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&count_private=true&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
 <p align=left>
 I have the most experience using these languages:
 <ul>
@@ -70,7 +70,7 @@ I have the most experience using these languages:
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
 <hr />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
+<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
 
 ### Social Media
 
