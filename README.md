@@ -82,7 +82,7 @@ Cool stuff 🗺
 -->
 <img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
 
-## Social Media
+## Socials 
 
 <p align=center>
 <a target="_blank" href="https://discord.bio/p/ricecx">
@@ -96,9 +96,6 @@ Cool stuff 🗺
 </a>
 <a target="_blank" href="https://ko-fi.com/ricecx/">
   <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-</a>
-<a target="_blank" href="https://twitter.com/andyiscool5463">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </p>
 
