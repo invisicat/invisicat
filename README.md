@@ -28,10 +28,11 @@ I like working with scablable services 🛰 and ❤ distributed systems. <br />
 Currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀.
 
 Feel free to reach out for any projects!
+(You should also sponsor me 😉)
    
 <br />
 <a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='54'  src='https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-   
+  
 ## Current Projects
 >   [Meditate](https://github.com/RiceCX/Meditate) - A website that provides ways of winding down and meditation.
    
@@ -50,34 +51,38 @@ Feel free to reach out for any projects!
 <br />
 
 <h1 align=left>Tech Stack 📚🌠</h1>
+Cool stuff 🗺
 <p align=center>
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&count_private=true&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
-<p align=left>
-I have the most experience using these languages:
-<ul>
-- Javascript (React, Node.js, Vue.js)
-<br />
-- Typescript
-<br />
-- Java
-<br />
-- C#
-<br />
-- C++
-<br />
-</ul>
-</p>
-<br />
-</p>
+<div>
+   <p align=center>
+      
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+      
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+      
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+      
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+
+   </p>
+</div>
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
-<hr />
 <img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
 
-### Social Media
+## Social Media
 
-<hr />
 <p align=center>
 <a target="_blank" href="https://discord.bio/p/ricecx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
