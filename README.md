@@ -23,16 +23,20 @@ Here are some ideas to get you started:
 <p align=center>
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792?bg=00000000" />
 <p align=left>
-Devoted to coding on my free time and writing good software since 2016 ☕. 
+I like working with scablable services 🛰 and ❤ distributed systems. <br />
    
-I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and <a href="https://webassembly.org/">WebAssembly</a>. At the moment, I'm interested in learning distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that as I would love to learn and contribute to it :)
+Currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀.
 
-Current Projects:
-   - [Meditate](https://github.com/RiceCX/Meditate) - A website that provides ways of winding down and meditation.
-   - [RiceStats](https://github.com/RiceCX/RiceStats) - Tracks statistics with InfluxDB for timescale analytics as a Spigot plugin
+Feel free to reach out for any projects!
    
 <br />
-<a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='54'  src='https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+   
+## Current Projects
+>   [Meditate](https://github.com/RiceCX/Meditate) - A website that provides ways of winding down and meditation.
+   
+>   [RiceStats](https://github.com/RiceCX/RiceStats) - Tracks statistics with InfluxDB for timescale analytics as a Spigot plugin
+   
 <details>
 <summary>Stats ✨</summary>
 <br>
@@ -43,7 +47,6 @@ Current Projects:
 
 </details>
 </p>
-<br />
 <br />
 
 <h1 align=left>Tech Stack 📚🌠</h1>
