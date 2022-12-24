@@ -53,7 +53,7 @@ Feel free to reach out for any projects!
 <h1 align=left>Tech Stack 📚🌠</h1>
 Cool stuff 🗺
 <p align=center>
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&count_private=true&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&count_private=true&show_icons=true&theme=ocean_dark&layout=compact&include_all_commits=true&hide_border=true" />
 <div>
    <p align=center>
       
@@ -80,7 +80,7 @@ Cool stuff 🗺
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
-<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
+<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&count_private=true&theme=ocean_dark&show_icons=true&hide_border=true" />
 
 ## Socials 
 
