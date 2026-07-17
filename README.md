@@ -1,8 +1,3 @@
-<p align="center">
-<img src="/header.svg" align="center" />
-</p>
-<hr />
-
 <!--
 **AndyIsCool5463/AndyIsCool5463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +20,7 @@ Here are some ideas to get you started:
 <p align=left>
 I like working with scablable services 🛰 and ❤ distributed systems. <br />
 
-Prev.
+Prev. polylabs.ai
 
 Feel free to reach out for any projects!
 (You should also sponsor me 😉)
