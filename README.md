@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align=left>
 I like working with scablable services 🛰 and ❤ distributed systems. <br />
 
-prev. polylabs.ai, CraftiGames
+prev. Photon, polylabs.ai, CraftiGames
 
 Feel free to reach out for any projects!
 (You should also sponsor me 😉)
